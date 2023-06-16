@@ -9,5 +9,5 @@ Intership date : 22/05/2023 -- 21/07/2023
 - First week (23/05 -- 26/05) : Knowledges on continuous population models for single and interacting species : Courses,python simulations, exercises.
 - Second week (30/05 -- 02/06) : Last knowledges on interacting species and begining of theoretical study (without papers) of the multipatch logistic equation. Some articles on the augmentorium to.
 - Third week (05/06 -- 09/06) : Python simulations of the multipatch equation in symmetric and assymmetric dispersal, knowledges through scientific articles on the multipatch equation.
-- Fourth week (12/06 -- 16/06) : Beginning of the simulation and study of the final augmentorium model (multipatch logistic equation with dispersal and one predator) : equilibrium
+- Fourth week (12/06 -- 16/06) : Beginning of the simulation and study of the final augmentorium model (multipatch logistic equation with dispersal and one predator) : equilibrium and their stability, introduction and justification of the parameters
 -
