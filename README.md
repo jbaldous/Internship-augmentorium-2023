@@ -10,4 +10,4 @@ Intership date : 22/05/2023 -- 21/07/2023
 - Second week (30/05 -- 02/06) : Last knowledges on interacting species and begining of theoretical study (without papers) of the multipatch logistic equation. Some articles on the augmentorium to.
 - Third week (05/06 -- 09/06) : Python simulations of the multipatch equation in symmetric and assymmetric dispersal, knowledges through scientific articles on the multipatch equation.
 - Fourth week (12/06 -- 16/06) : Beginning of the simulation and study of the final augmentorium model (multipatch logistic equation with dispersal and one predator) : equilibrium and their stability, introduction and justification of the parameters
--
+- Fifth week (19/06 -- 23/06) : Refresh of the two first parts on the multipatch logistic equation with and without assymetrical dispersion and their application with augmentorium technique. Phase plan of the final model, mathematical proof of all equilibrium and almost all stability. 
