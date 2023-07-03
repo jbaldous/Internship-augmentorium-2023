@@ -11,5 +11,5 @@ Intership date : 22/05/2023 -- 21/07/2023
 - Third week (05/06 -- 09/06) : Python simulations of the multipatch equation in symmetric and assymmetric dispersal, knowledges through scientific articles on the multipatch equation.
 - Fourth week (12/06 -- 16/06) : Beginning of the simulation and study of the simplified augmentorium model (multipatch logistic equation with dispersal and one predator) : equilibrium and their stability, introduction and justification of the parameters
 - Fifth week (19/06 -- 23/06) : Refresh of the two first parts on the multipatch logistic equation with and without assymetrical dispersion and their application with augmentorium technique. Phase plan of the simplified augmentorium model, mathematical proof of all equilibrium and almost all stability.
-- Sixth week (26/06 -- 30/06) : End of the simplified augmentorium model: Equilibrium in fonction of migration, conditions on deflation and conclusion, beginnig of the complete augmentorium model: Dynamics,equilibrium and stability, phase plan. Installation of quarto
-- Seventh week (3/07 -- 7/07) : 
+- Sixth week (26/06 -- 30/06) : End of the simplified augmentorium model: Equilibrium in fonction of migration, conditions on deflation and conclusion, 
+beginnig of the complete augmentorium model: Dynamics,equilibrium and stability, phase plan. Installation of quarto
