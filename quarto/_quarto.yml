@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: doc
+
+website:
+  title: "Rapport de stage"
+  sidebar:
+    style: floating
+    contents:
+
+     - index.qmd
+     - contexte.qmd
+     - modelesansmigrationass.qmd
+     - modeleavecmigrationass.qmd
+     - modelaug.qmd
+     - conclusion.qmd
+     - ref.qmd
+     
+  page-footer: "Pour plus d'informations, voyez [ici](about.qmd). "
+  repo-url: https://github.com/jbaldous/Siterapport
+
+format:
+  html:
+    scroll_to_top: true
+    theme: pulse
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    code-fold: false
+    code-tools: true
+    html-math-method: katex
+
+bibliography: reference.bib
+
+license: CC BY-NC
+
+execute:
+  freeze: auto
+
+
+
+

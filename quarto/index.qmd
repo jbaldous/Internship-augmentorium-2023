@@ -1,0 +1,33 @@
+---
+title: "Présentation"
+lang: fr
+---
+
+Les prochaines pages regroupent mes travaux à l'[INRAE](https://www6.paca.inrae.fr/institut-sophia-agrobiotech/) Sophia-Antipolis lors de mon stage de L2 du 22/05/2023 au 21/07/23 sous la tutelle de Ludovic Mailleret dans l'équipe [M2P2](https://www6.paca.inrae.fr/institut-sophia-agrobiotech_eng/Research-teams/M2P2).  
+
+Le but de ce stage était de modéliser un augmentorium, une structure dans les cultures où l'on met les fruits pourris, pour la lutte biologique.  
+
+Pour cela nous nous baserons sur des modèles de [dynamique des populations](https://en.wikipedia.org/wiki/Population_dynamics).   
+
+Le rapport se structure ainsi :
+
+- Une partie [contexte](contexte.qmd) afin de poser un cadre biologique à notre modélisation.
+
+- Une partie sur un [modèle](modelesansmigrationass.qmd) structuré en espace avec deux classes dont nous ferons une analyse rapide et qui servira à poser les bases sur la partie Python (qui sera moins détaillée dans la suite des parties).
+
+- Une partie sur un [modèle](modeleavecmigrationass.qmd) structuré en espace avec deux classes et avec migration asymétrique qui décrit plus précisément notre situation biologique.
+
+- Une partie sur un [modèle d'augmentorium](modelaug.qmd) qui permet de prendre en compte la présence de prédateurs des ravageurs.
+
+
+Enfin, nous discuterons d'un dernier modèle et de l'efficacité théorique de l'augmentorium en [conclusion](conclusion.qmd).
+
+
+Tous les articles utilisés sont [ici](ref.qmd).
+
+## Remerciements {.appendix}
+Je tiens à remercier Ludovic Mailleret et son équipe pour m'avoir gentillement accueilli et fait confiance. Merci spécialement à Ludovic qui m'a beaucoup supporté et qui a pris de son temps pour m'aider.  
+&nbsp;
+---
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://upload.wikimedia.org/wikipedia/fr/archive/2/2a/20210420122444%21Logo-INRAE_Transparent.svg){ width=20% }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://upload.wikimedia.org/wikipedia/commons/4/4f/Logo_universit%C3%A9_c%C3%B4te_azur.png){ width=30% }&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](https://www.cnrs.fr/themes/custom/cnrs/logo-footer.svg){ width=25% } 

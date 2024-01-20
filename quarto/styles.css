@@ -1,0 +1,7 @@
+/* css styles */
+h1.title {
+  background-image: url(inrae.png);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: 200px, 200px;
+}

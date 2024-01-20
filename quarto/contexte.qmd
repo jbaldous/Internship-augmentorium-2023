@@ -1,0 +1,58 @@
+---
+title: Contexte
+---
+
+L'augmentorium est un outil ressemblant à une tente placée dans les cultures afin d'y entreposer des fruits ou des légumes attaqués par des ravageurs.
+
+### Description de la structure 
+
+---
+
+![Augmentorium en culture; Photo: J-P Deguine, Cirad](https://www.researchgate.net/publication/344746541/figure/fig3/AS:963403380191257@1606704673276/Augmentorium-in-a-chayote-trellis-photo-Jean-Philippe-Deguine-Cirad.jpg)
+
+---
+
+L'augmentorium possède une ouverture pour entreposer les fruits et une grille afin de libérer les prédateurs de ces ravageurs (plus petits). 
+
+L'augmentorium peut être enterré, afin de préserver d'une sortie des larves de ravageurs par le bas.  
+
+Nous observons aussi sur les modèles de plus haute génération des sas ou bien le déplacement de la grille (et donc de la lumière) à l'opposé de l'ouverture.
+
+
+### Avantage biologique
+
+
+Cette méthode, prophylactique, permet de concentrer les ravageurs dans un espace clos presque sans migration vers l'extérieur.  
+
+En effet, la taille des mailles de la grille permet de cloisonner près de 100% des ravageurs et libérer jusqu'à 98% des prédateurs (@deguine2011).
+
+Ainsi, cette méthode permet à la fois de casser le cycle de reproduction des ravageurs mais aussi d'augmenter le ratio prédateurs sur ravageurs dans les cultures et enfin de garantir aux ravageurs, et donc aux prédateurs, un lieu propice à la reproduction.  
+
+Cette méthode s'inscrit dans une démarche de lutte intégrée car elle permet de réduire les pesticides dans les cultures et se sert de l'effet direct de prédation des prédateurs sur les ravageurs.  
+
+### Modélisation utilisée
+
+Notre modélisation se fonde sur des modèles de dynamique des populations. Nous nous baserons sur des systèmes d'équations différentielles. 
+
+Les naissances des ravageurs seront simulées par une croissance logistique (modèle de Verhulst). Une étude de ce modèle est laissée au lecteur [ici](https://fr.wikipedia.org/wiki/Mod%C3%A8le_de_Verhulst).
+
+Le modèle final est un modèle [proie-prédateur](https://fr.wikipedia.org/wiki/%C3%89quations_de_pr%C3%A9dation_de_Lotka-Volterra) en deux structures avec de la migration asymétrique entre chaque structure.
+
+Nous allons tout au long de ce rapport suivre une évolution dans les modèles en les complexifiant peu à peu.
+
+Les premiers modèles ont déja été [analysés](ref.qmd), peu à peu les études se feront de plus en plus rare (ou du moins incomplètes).
+
+### Notion d'inflation et de déflation 
+
+Pour mieux comprendre les analyses faites dans ce rapport il faut comprendre le concept d'inflation d'un système biologique.  
+
+Dans les années 70 certains articles (@freedman1977) mentionnent que lorsqu'on considère un modèle avec deux zones et dans chaque zone une population qui échange avec l'autre librement des individus, alors la somme des équilibres est le plus souvent différente de celle qu'elle serait si il n'y avait qu'une zone.
+
+C'est ce qu'on appelle le débat [SLOSS](https://en.wikipedia.org/wiki/SLOSS_debate) (Single Large Or Several Small). On dit qu'une population structurée est caractérisée par un phénomène d'inflation si la somme de ses équilibres est plus grande que l'équilibre s'il n'y avait qu'une structure (et l'inverse pour la déflation).
+
+L'objectif de l'augmentorium est de provoquer une déflation du système chez les ravageurs.
+
+Nous allons commencer avec un modèle de base qui permet de situer la démarche et le type d'analyse possible face à ce genre de modèles.
+
+
+[C'est parti !](modelesansmigrationass.qmd)

@@ -1,0 +1,37 @@
+---
+title: Références
+---
+   
+
+Voici la liste des références qui m'ont été utiles lors de mon travail : 
+
+- Théorie:
+    - Murray, J. D. 1989. Contiuous Population Models for Single Species & Continous Models for Interacting Populations. In Mathematical Biology. [Vol. 19 1–35 & 63–94](https://link.springer.com/content/pdf/10.1007/978-3-662-08539-4.pdf?pdf=button).
+
+    - [Cours/TP](https://lmaillere.github.io/biomaths_www/) par L. Mailleret.
+
+    - [Cours](https://math.univ-cotedazur.fr/~hoering/l1sv-s2-20.html) de la faculté de Nice.
+
+- Modélisation:
+    - Arditi, R., Lobry, C., Sari, T., 2015. Is dispersal always beneficial to carrying capacity ? New insights from the multi-patch logistic equation. [Theor. Popul. Biol. 106, 45–59](https://doi.org/10.1016/j.tpb.2015.10.001).
+
+    - Arditi, R., Lobry, C., Sari, T., 2018. Asymmetric dispersal in the multi-patch logistic equation. [Theor. Popul. Biol. 120, 11–15](https://hal.sorbonne-universite.fr/hal-01688305/document).
+
+    - Daozhou Gao, Yuan Lou, 2022, Total biomass of a single population in two-patch environments. [Theor. Popul. Biol. 146, 1-14](https://doi.org/10.1016/j.tpb.2022.05.003).
+
+    - Freedman, H.I., Waltman, P., 1977. Mathematical models of population interactions with dispersal.[SIAM J. Appl. Math. 32 (3), 631–648](https://www.jstor.org/stable/2100350).
+
+- Biologie:
+    - Deguine JP, Atiama-Nurbel T, Quilici S, 2011. Net choice is key to the augmentorium technique of fruit fly sequestration and parasitoid release.   [Crop Protection 30 : 198-202](https://unt.univ-reunion.fr/fileadmin/Fichiers/UNT/UVED/IGAR/EN/00_chapitre_3_gen_caseWeb/res/8a.pdf).
+
+    - Deguine JP, Ferron P, 2006. Protection des cultures, préservation de la biodiversité, respect de l'environnement.[Cahiers Agricultures 15 : 307-11](https://revues.cirad.fr/index.php/cahiers-agricultures/article/view/30591/30351).
+
+    - Deguine, J.-P., Atiama-Nurbel, T., Douraguia, E., & Rousse, P. (2011). L’augmentorium, un outil de protection agroécologique des cultures. [Cahiers Agricultures 20: 261–265](https://doi.org/10.1684/agr.2011.0488).
+
+    - Kehrli, Patrik & Lehmann, M. & Bacher, Sven. (2004). Mass-hatching devices: a new biocontrol technique to augment parasitoids. [Biol. Control. 32. 191-199](https://www.researchgate.net/publication/291037936_Mass-hatching_devices_a_new_biocontrol_technique_to_augment_parasitoids). 
+
+    - Jang, E. & Klungness, Lester & McQuate, Grant. (2007). Extension Of The Use Of Augmentoria For Sanitation In A Cropping System Susceptible To the Alien Terphritid Fruit Flies (diptera: Terphritidae) In Hawaii.. [J. of Appl. Sci. and Environ. Manage. Vol 11 Num 2. 11](http://www.bioline.org.br/pdf?ja07054). 
+
+    - Klungness, L.M., Jang, E.B., Ronald, F.L., Vargas, R.I., Sugano, J.S., Fujitani, E., 2005.
+    New sanitation techniques for controlling tephritid fruit flies (Diptera: Tephritidae) in Hawaii. [J. Appl. Sci. Environ. Manage. 9, 5e14](https://unt.univ-reunion.fr/fileadmin/Fichiers/UNT/UVED/IGAR/EN/00_chapitre_3_gen_caseWeb/res/8a.pdf).
+

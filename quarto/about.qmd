@@ -1,0 +1,11 @@
+--- 
+title: "À propos" 
+---
+
+Ce site a été généré grâce à [Github](https://github.com/).  
+
+Ces pages ont été générées avec [Quarto](https://quarto.org/), [Jupyter](https://jupyter.org) et [Python](https://www.python.org) (version 3.10.10).  
+
+Les principaux modules utilisés sont [NumPy](https://numpy.org), [Matplotlib](https://matplotlib.org), [SciPy](https://scipy.org) et [Plotly](https://plotly.com/). 
+
+Quelques animations ont été réalisées sous [Geogebra](https://www.geogebra.org/).
